@@ -1,5 +1,5 @@
 # Behavioural-Asset-Pricing-and-Market-Mispricing
-This project was carried under Dr. Suman Saurabh from IIT Kanpur as a part of Summer Project in 2021. Detailed work will be uploaded shortly.
+This project was carried under Dr. Suman Saurabh from IIT Kanpur as a part of Summer Project in 2021. Detailed work will be uploaded shortly.<br/>
 Frameworks used in this projects and skills learnt: PYTHON, CAPM, NLP, ASSET PRICING, Spacy, TEXTBLOB
 Brief Overview of the project
 • In this project we gone through a few famous works by several researchers eg. Fama-French, Stambaugh, Hendershott
